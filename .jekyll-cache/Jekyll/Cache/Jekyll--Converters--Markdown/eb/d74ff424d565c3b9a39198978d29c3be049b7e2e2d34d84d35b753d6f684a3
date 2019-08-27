@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<body>
-		<h1 id="home-page">Home Page</h1>
+I"P<h1 id="home-page">Home Page</h1>
 
 <p>This should be working but it isn’t…</p>
 
@@ -12,6 +9,4 @@ in your markdown file, you cannot use markdown syntax within that element's
 contents.
 
 -->
-
-	</body>
-</html
+:ET

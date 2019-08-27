@@ -1,9 +1,12 @@
-<!DOCTYPE html>
-<html>
-	<body>
-		<h1 id="home-page">Home Page</h1>
+---
+title: Home Page
+layout: default
+---
 
-<p>This should be working but it isn’t…</p>
+# {{ page.title }}
+
+This should be working but it isn't...
+
 
 <!--
 You can use HTML Elements in Markdown, such as the comment element, and they
@@ -12,6 +15,3 @@ in your markdown file, you cannot use markdown syntax within that element's
 contents.
 
 -->
-
-	</body>
-</html
