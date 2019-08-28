@@ -5,8 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-This should be working but it isn't...
-
+I fixed it!
 
 <!--
 You can use HTML Elements in Markdown, such as the comment element, and they
