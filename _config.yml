@@ -2,7 +2,7 @@
 title: Kaleb's Blog
 email: ksjog33@gmail.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: kasjogren.github.io
+url:
 author: Kaleb
 street_address: 1234 Somewhere Road
 city: Nashville
